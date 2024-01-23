@@ -1,6 +1,6 @@
 <div align="center">
 
-## PLANT-AI [Recognition of Plant Diseases by Leaf Image Classification]
+## PlantAidNet [Recognition of Plant Diseases by Leaf Image Classification]
 
 <!-- ### <a href="https://plant49-ai.herokuapp.com/" target="_blank">https://plant49-ai.herokuapp.com/</a>
 
