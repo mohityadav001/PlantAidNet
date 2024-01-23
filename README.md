@@ -21,7 +21,7 @@ use of deep convolutional networks. The developed model is able to recognize 38 
 
 ## Leaf Image Classification
 
-## <img src="./Assets/batch.png" alt="batch of image"/>
+<!-- ## <img src="./Assets/batch.png" alt="batch of image"/> -->
 
 This process for building a model which can detect the disease assocaited with the leaf image. The key points to be followed are:
 
