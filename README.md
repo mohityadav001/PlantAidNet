@@ -2,9 +2,9 @@
 
 ## PLANT-AI [Recognition of Plant Diseases by Leaf Image Classification]
 
-### <a href="https://plant49-ai.herokuapp.com/" target="_blank">https://plant49-ai.herokuapp.com/</a>
+<!-- ### <a href="https://plant49-ai.herokuapp.com/" target="_blank">https://plant49-ai.herokuapp.com/</a>
 
-## <img src="./Assets/web.gif" alt="demo"/>
+## <img src="./Assets/web.gif" alt="demo"/> -->
 
  </div>
 
@@ -47,15 +47,15 @@ This process for building a model which can detect the disease assocaited with t
    The model used for prediction on sample images. It can be seen below:
    <!-- <img src="" alt="index1" height="300px"/> -->
    <div>
-   <img src="./Assets/out1.png" alt="index2" height="300px" width="450"/>
-   <img src="./Assets/out2.png" alt="index3" height="300px"  width="450"/>
+   <!-- <img src="./Assets/out1.png" alt="index2" height="300px" width="450"/>
+   <img src="./Assets/out2.png" alt="index3" height="300px"  width="450"/> -->
    </div>
 
 5. Various Model Architecture tried along with Learning Rate and Optimizer and various accuracy obtained with different models.
 
-  <img src="./Assets/models.png" alt="models" />
+  <!-- <img src="./Assets/models.png" alt="models" /> -->
 
-All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification)
+<!-- All the version with code can be seen in `jovian.ml` (https://jovian.ml/soumyajit4419/course-project-plant-disease-classification) -->
 <br/>
 
 ## Details about the model
